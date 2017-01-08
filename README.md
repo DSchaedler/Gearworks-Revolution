@@ -2,7 +2,7 @@
 Credit to Reddit user Wasthereonce for the Inspiration. Gearworks Revolution is a Minecraft mod about Kinetic Energy, big machines, and looking cool while doing it.
 
 ## Credit where it's due
-The origianl Reddit Post: https://www.reddit.com/r/feedthebeast/comments/5mh3m2/abandoned_mod_idea_gearworks_revolution/?ref=share&ref_source=link
+The original Reddit Post: https://www.reddit.com/r/feedthebeast/comments/5mh3m2/abandoned_mod_idea_gearworks_revolution/?ref=share&ref_source=link
 
 # Design
 Gearworks is literally just a spark in my head at the moment, but I still have some core ideas.
