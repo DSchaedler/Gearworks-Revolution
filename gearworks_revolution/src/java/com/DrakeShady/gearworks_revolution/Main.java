@@ -1,5 +1,6 @@
 package com.DrakeShady.gearworks_revolution;
 
+
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
 import cpw.mods.fml.common.Mod.Instance;
@@ -23,16 +24,19 @@ public class Main {
 	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent e) {
+		System.out.println("GR PreInit");
 		proxy.preInit(e);
 	}
 	
 	@EventHandler
 	public void init(FMLInitializationEvent e) {
+		System.out.println("GR Init");
 		proxy.init(e);
 	}
 	
 	@EventHandler
 	public void postInit(FMLPostInitializationEvent e) {
+		System.out.println("GR PostInit");
 		proxy.postInit(e);
 	}
 }
