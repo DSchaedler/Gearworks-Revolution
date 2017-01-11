@@ -8,13 +8,22 @@ The original Reddit Post: https://www.reddit.com/r/feedthebeast/comments/5mh3m2/
 Gearworks is literally just a spark in my head at the moment, but I still have some core ideas.
 
 ## Aesthetics
-It has to look good. Textures must all work together and be unified. If a clockpunk fan would love it, its good in my eyes.
+It has to look good. Textures must all work together and be unified. If a clockpunk fan would love it, its good in my eyes. Hopefully, an animation API can be used to make the gears, etc. move fluidly.
 
 ## Mechanics
-In no particular order:
- * Gear teeth should have different sizes, configuarable when being built. Different sizes are incompatible and have to be scaled using a drive shaft
- * All recipies should be recyclable. Im sick of having chests full of things Ill never need.
- * Power generation should be limited to sources like windmills, water wheels and coal ovens. No RF or other power systems allowed. If you are actively, rather than passively generating energy, it is more effective.
- * All recipies should be done with vanilla materials. Changing worldgen is inconvenient and unnecissary with the proper imagination.
- * No reliance on other mods (unless absolutely necessary). This should be a self-contained package.
- * Stronger materials have more durability, but other drawbacks like the effort and complexity of their crafting.
+ * This will likely be made as a Tinkers Construct Expansion, using the smeltery to craft the gears.
+ * Gears have different sizes, determined by the size of their mold
+ * The Tinkers construct smeltery will be used to pour materials into the mold
+ * All recipies should be recyclable. Metals can be smelted with some loss, wood can be burnt, stone can be broken down into cobblestone or gravel
+ * Power can be brought into motors using RF. Power can be made into RF using dynamos. 
+ * Stronger materials have more durability, but other drawbacks like the effort and complexity of their crafting. 
+     * Golden Gears can carry redstone signal, but break at high speeds
+     * Iron Gears move quickly and last long, but are difficult to craft
+     * Wooden gears are cheap, but can only move at low speeds and break quickly
+     * etc.
+ * Pendulums can be used to generate momentum/power, walking into their block starts them swinging.
+ * Possible compatibility with other mods
+     * Thaumcraft (Golems)
+     * Immersive Engineering, Ancient Warfare (Windmills, Waterwheels, etc.)
+     * Botania (Mystical Motors)
+ 
